@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  background-color: #ff4d88;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+main {
+  padding: 50px 0;
+  background-color: lightgrey;
+  text-align: center;
+}
+
+h1 {
+  color: #ff4d88;
+  font-size: 2rem;
+}
+
+section {
+  width: 80%;
+  margin: auto;
+  margin-top: 50px;
+  color: #fff;
+}
+
+p {
+  padding: 10px 0;
+  font-size: 1.4rem;
+}
+
